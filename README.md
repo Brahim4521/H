@@ -1,6 +1,6 @@
 # كورسات في البرمجة - Korsat X Parmaga
 ## تابعنا علي اليوتيوب - Follow us on YouTube
-https://www.youtube.com/@korsatxparmaga
+يحفزنا دعمكم
 
 Follow these steps:
 # Step 3: Install the necessary dependencies.
